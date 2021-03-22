@@ -1,0 +1,1 @@
+**Acknowledgments**: The Receiver acknowledges that the Discloser may be irreparably harmed by the breach of this agreement and damages may not be an adequate remedy. The Discloser may seek injunctive relief or specific performance to enforce its rights under this agreement.
