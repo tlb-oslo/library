@@ -3,3 +3,5 @@ which is in the public domain (other than through breach of this agreement);<br>
 - the Receiver held before the Discloser disclosed it;<br>
 - the Receiver obtains from a third person; or<br>
 - the Receiver develops independently without reference to any Confidential Information.
+
+This is a new addition.
